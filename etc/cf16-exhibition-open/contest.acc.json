@@ -1,0 +1,29 @@
+{
+  "contest": {
+    "id": "cf16-exhibition-open",
+    "title": "CODE FESTIVAL 2016 Exhibition(Parallel)",
+    "url": "https://atcoder.jp/contests/cf16-exhibition-open"
+  },
+  "tasks": [
+    {
+      "id": "codefestival_2016_ex_a",
+      "label": "A",
+      "title": "Distance Pairs",
+      "url": "https://atcoder.jp/contests/cf16-exhibition-open/tasks/codefestival_2016_ex_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "codefestival_2016_ex_b",
+      "label": "B",
+      "title": "Exact Payment",
+      "url": "https://atcoder.jp/contests/cf16-exhibition-open/tasks/codefestival_2016_ex_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
