@@ -1,0 +1,29 @@
+{
+  "contest": {
+    "id": "cf16-tournament-round1-open",
+    "title": "CODE FESTIVAL 2016 Elimination Tournament Round 1 (Parallel)",
+    "url": "https://atcoder.jp/contests/cf16-tournament-round1-open"
+  },
+  "tasks": [
+    {
+      "id": "asaporo_c",
+      "label": "A",
+      "title": "Graph",
+      "url": "https://atcoder.jp/contests/cf16-tournament-round1-open/tasks/asaporo_c",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "asaporo_f",
+      "label": "B",
+      "title": "Problem where Commas Separate Digits",
+      "url": "https://atcoder.jp/contests/cf16-tournament-round1-open/tasks/asaporo_f",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
