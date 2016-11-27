@@ -1,0 +1,29 @@
+{
+  "contest": {
+    "id": "cf16-tournament-round2-open",
+    "title": "CODE FESTIVAL 2016 Elimination Tournament Round 2 (Parallel)",
+    "url": "https://atcoder.jp/contests/cf16-tournament-round2-open"
+  },
+  "tasks": [
+    {
+      "id": "asaporo_e",
+      "label": "A",
+      "title": "Takahashi is Missing!",
+      "url": "https://atcoder.jp/contests/cf16-tournament-round2-open/tasks/asaporo_e",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "asaporo_a",
+      "label": "B",
+      "title": "Takahashi the Magician",
+      "url": "https://atcoder.jp/contests/cf16-tournament-round2-open/tasks/asaporo_a",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
