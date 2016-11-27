@@ -1,0 +1,29 @@
+{
+  "contest": {
+    "id": "cf16-tournament-round3-open",
+    "title": "CODE FESTIVAL 2016 Tournament Round 3 (Parallel)",
+    "url": "https://atcoder.jp/contests/cf16-tournament-round3-open"
+  },
+  "tasks": [
+    {
+      "id": "asaporo_d",
+      "label": "A",
+      "title": "Struck Out",
+      "url": "https://atcoder.jp/contests/cf16-tournament-round3-open/tasks/asaporo_d",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "asaporo_b",
+      "label": "B",
+      "title": "Compression",
+      "url": "https://atcoder.jp/contests/cf16-tournament-round3-open/tasks/asaporo_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
