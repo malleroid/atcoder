@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": "mujin-pc-2017",
+    "title": "Mujin Programming Challenge 2017",
+    "url": "https://atcoder.jp/contests/mujin-pc-2017"
+  },
+  "tasks": [
+    {
+      "id": "mujin_pc_2017_a",
+      "label": "A",
+      "title": "Robot Racing",
+      "url": "https://atcoder.jp/contests/mujin-pc-2017/tasks/mujin_pc_2017_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "mujin_pc_2017_b",
+      "label": "B",
+      "title": "Row to Column",
+      "url": "https://atcoder.jp/contests/mujin-pc-2017/tasks/mujin_pc_2017_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "mujin_pc_2017_c",
+      "label": "C",
+      "title": "Robot and String",
+      "url": "https://atcoder.jp/contests/mujin-pc-2017/tasks/mujin_pc_2017_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "mujin_pc_2017_d",
+      "label": "D",
+      "title": "Oriented Tree",
+      "url": "https://atcoder.jp/contests/mujin-pc-2017/tasks/mujin_pc_2017_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
