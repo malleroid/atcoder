@@ -1,0 +1,29 @@
+{
+  "contest": {
+    "id": "cf17-exhibition-open",
+    "title": "CODE FESTIVAL 2017 Exhibition (Parallel)",
+    "url": "https://atcoder.jp/contests/cf17-exhibition-open"
+  },
+  "tasks": [
+    {
+      "id": "cf17_exhibition_a",
+      "label": "A",
+      "title": "Awkward",
+      "url": "https://atcoder.jp/contests/cf17-exhibition-open/tasks/cf17_exhibition_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "cf17_exhibition_b",
+      "label": "B",
+      "title": "Increment and Swap",
+      "url": "https://atcoder.jp/contests/cf17-exhibition-open/tasks/cf17_exhibition_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
