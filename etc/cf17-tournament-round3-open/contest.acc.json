@@ -1,0 +1,29 @@
+{
+  "contest": {
+    "id": "cf17-tournament-round3-open",
+    "title": "CODE FESTIVAL 2017 Elimination Tournament Round 3 (Parallel)",
+    "url": "https://atcoder.jp/contests/cf17-tournament-round3-open"
+  },
+  "tasks": [
+    {
+      "id": "asaporo2_e",
+      "label": "E",
+      "title": "Black Cats Deployment",
+      "url": "https://atcoder.jp/contests/cf17-tournament-round3-open/tasks/asaporo2_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "asaporo2_f",
+      "label": "F",
+      "title": "Unicyclic Graph Counting",
+      "url": "https://atcoder.jp/contests/cf17-tournament-round3-open/tasks/asaporo2_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
