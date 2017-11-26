@@ -1,0 +1,29 @@
+{
+  "contest": {
+    "id": "cf17-tournament-round2-open",
+    "title": "CODE FESTIVAL 2017 Elimination Tournament Round 2 (Parallel)",
+    "url": "https://atcoder.jp/contests/cf17-tournament-round2-open"
+  },
+  "tasks": [
+    {
+      "id": "asaporo2_a",
+      "label": "A",
+      "title": "Colorful MST",
+      "url": "https://atcoder.jp/contests/cf17-tournament-round2-open/tasks/asaporo2_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "asaporo2_b",
+      "label": "B",
+      "title": "Many Swaps Sorting",
+      "url": "https://atcoder.jp/contests/cf17-tournament-round2-open/tasks/asaporo2_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    }
+  ]
+}

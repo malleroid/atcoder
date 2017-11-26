@@ -1,0 +1,29 @@
+{
+  "contest": {
+    "id": "cf17-tournament-round1-open",
+    "title": "CODE FESTIVAL 2017 Elimination Tournament Round 1 (Parallel)",
+    "url": "https://atcoder.jp/contests/cf17-tournament-round1-open"
+  },
+  "tasks": [
+    {
+      "id": "asaporo2_c",
+      "label": "C",
+      "title": "Paired Parentheses",
+      "url": "https://atcoder.jp/contests/cf17-tournament-round1-open/tasks/asaporo2_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "asaporo2_d",
+      "label": "D",
+      "title": "Ancient Tree Record",
+      "url": "https://atcoder.jp/contests/cf17-tournament-round1-open/tasks/asaporo2_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
