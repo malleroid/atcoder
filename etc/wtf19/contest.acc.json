@@ -1,0 +1,69 @@
+{
+  "contest": {
+    "id": "wtf19",
+    "title": "World Tour Finals 2019",
+    "url": "https://atcoder.jp/contests/wtf19"
+  },
+  "tasks": [
+    {
+      "id": "wtf19_a",
+      "label": "A",
+      "title": "Magic",
+      "url": "https://atcoder.jp/contests/wtf19/tasks/wtf19_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "wtf19_b",
+      "label": "B",
+      "title": "Multiple of Nine",
+      "url": "https://atcoder.jp/contests/wtf19/tasks/wtf19_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "wtf19_c1",
+      "label": "C1",
+      "title": "Triangular Lamps Easy",
+      "url": "https://atcoder.jp/contests/wtf19/tasks/wtf19_c1",
+      "directory": {
+        "path": "c1",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "wtf19_c2",
+      "label": "C2",
+      "title": "Triangular Lamps Hard",
+      "url": "https://atcoder.jp/contests/wtf19/tasks/wtf19_c2",
+      "directory": {
+        "path": "c2",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "wtf19_d",
+      "label": "D",
+      "title": "Distinct Boxes",
+      "url": "https://atcoder.jp/contests/wtf19/tasks/wtf19_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "wtf19_e",
+      "label": "E",
+      "title": "e",
+      "url": "https://atcoder.jp/contests/wtf19/tasks/wtf19_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
