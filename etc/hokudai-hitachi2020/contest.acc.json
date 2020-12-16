@@ -1,0 +1,29 @@
+{
+  "contest": {
+    "id": "hokudai-hitachi2020",
+    "title": "Hitachi Hokudai Lab. & Hokkaido University Contest 2020",
+    "url": "https://atcoder.jp/contests/hokudai-hitachi2020"
+  },
+  "tasks": [
+    {
+      "id": "hokudai_hitachi2020_a",
+      "label": "A",
+      "title": "hokudai_hitachi2020_a",
+      "url": "https://atcoder.jp/contests/hokudai-hitachi2020/tasks/hokudai_hitachi2020_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "hokudai_hitachi2020_b",
+      "label": "B",
+      "title": "hokudai_hitachi2020_b",
+      "url": "https://atcoder.jp/contests/hokudai-hitachi2020/tasks/hokudai_hitachi2020_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
