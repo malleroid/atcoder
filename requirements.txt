@@ -13,3 +13,13 @@ streamlit
 # https://qiita.com/Adaachill/items/3d4ddad56c5c2cc372cd
 # http://tatamo.81.la/blog/2018/12/07/atcoder-cli-tutorial/
 # https://github.com/online-judge-tools/oj/blob/master/docs/getting-started.ja.md
+
+
+# DL
+# acc new {urlのコンテスト名}
+
+# テスト
+# oj t -c "python3 ./a.py" -d ./tests/
+
+# 提出
+# acc submit a.py
