@@ -1,0 +1,69 @@
+{
+  "contest": {
+    "id": "agc050",
+    "title": "AtCoder Grand Contest 050 (Good Bye rng_58 Day 1)",
+    "url": "https://atcoder.jp/contests/agc050"
+  },
+  "tasks": [
+    {
+      "id": "agc050_a",
+      "label": "A",
+      "title": "AtCoder Jumper",
+      "url": "https://atcoder.jp/contests/agc050/tasks/agc050_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "agc050_b",
+      "label": "B",
+      "title": "Three Coins",
+      "url": "https://atcoder.jp/contests/agc050/tasks/agc050_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "agc050_c",
+      "label": "C",
+      "title": "Block Game",
+      "url": "https://atcoder.jp/contests/agc050/tasks/agc050_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "agc050_d",
+      "label": "D",
+      "title": "Shopping",
+      "url": "https://atcoder.jp/contests/agc050/tasks/agc050_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "agc050_e",
+      "label": "E",
+      "title": "Three Traffic Lights",
+      "url": "https://atcoder.jp/contests/agc050/tasks/agc050_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "agc050_f",
+      "label": "F",
+      "title": "NAND Tree",
+      "url": "https://atcoder.jp/contests/agc050/tasks/agc050_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
