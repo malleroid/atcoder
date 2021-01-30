@@ -5,3 +5,5 @@ RUN apt update \
     && apt install -y npm nodejs lsb-release \
     && pip3 install online-judge-tools\
     && npm install -g atcoder-cli \
+    && pip3 install flake8 \
+    && pip3 install autopep8 \
