@@ -1,13 +1,14 @@
-N,X=map(int,input().split())
+N, X = map(int, input().split())
 
+X = X*100
 for i in range(N):
 
-    V,P=map(int,input().split())
+    V, P = map(int, input().split())
 
-    alc=V*P/100
-    X-=alc
+    alc = V*P
+    X -= alc
 
-    if X<0:
+    if X < 0:
         print(i+1)
         exit()
 
