@@ -1,3 +1,3 @@
-w=input()
+w = input()
 
 print(w+'s')
