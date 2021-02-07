@@ -1,3 +1,6 @@
-a, b = map(float, input().split())
+A, B = input().split()
 
-print(int(a*b))
+A = int(A)
+B = int(B.replace('.', ''))
+
+print(A*B//100)
