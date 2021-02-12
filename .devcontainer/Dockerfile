@@ -8,4 +8,4 @@ RUN apt update \
     && pip3 install flake8 \
     && pip3 install autopep8 \
     && acc config default-task-choice all \
-    && ./login.sh \
+    # && ./login.sh \
