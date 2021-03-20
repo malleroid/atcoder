@@ -9,5 +9,4 @@ for i in range(1, N):
         num = (A[i]-A[j])**2
         ans += num
 
-
 print(ans)
