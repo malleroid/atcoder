@@ -4,3 +4,5 @@ A = int(A)
 B = int(B.replace('.', ''))
 
 print(A*B//100)
+
+# 100*0.29
