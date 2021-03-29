@@ -1,16 +1,11 @@
-n,a,b=map(int,input().split())
+N, A, B = map(int, input().split())
 
-ans=0
+ans = 0
+for i in range(1, N+1):
 
-for i in range(1,n+1):
-    
-    num=0
+    s = list(map(int, str(i)))
 
-    for j in range(len(str(i))):
+    if A <= sum(s) <= B:
+        ans += i
 
-        num+=int(str(i)[j])
-
-    if a<=num<=b:
-        ans+=i
-
-print(ans) 
+print(ans)

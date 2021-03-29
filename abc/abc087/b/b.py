@@ -1,17 +1,17 @@
-a=int(input())
-b=int(input())
-c=int(input())
-x=int(input())
+A = int(input())
+B = int(input())
+C = int(input())
+X = int(input())
 
-ans=0
+ans = 0
 
-for i in range(a+1):
+for i in range(A+1):
 
-    for j in range(b+1):
+    for j in range(B+1):
 
-        num=x-500*i-100*j
+        num = X-500*i-100*j
 
-        if num >= 0 and num // 50 <= c:
-            ans+=1 
+        if num >= 0 and num // 50 <= C:
+            ans += 1
 
 print(ans)
