@@ -1,6 +1,10 @@
 A, B = map(int, input().split())
 
-a = A/0.08
-b = B/0.10
+r = 10**4
 
-print(a, b, sep=' ')
+for i in range(1, r+1):
+    if i*8//100 == A and i*10//100 == B:
+        print(i)
+        exit()
+
+print(-1)
