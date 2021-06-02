@@ -1,0 +1,19 @@
+{
+  "contest": {
+    "id": "ahc003",
+    "title": "AtCoder Heuristic Contest 003",
+    "url": "https://atcoder.jp/contests/ahc003"
+  },
+  "tasks": [
+    {
+      "id": "ahc003_a",
+      "label": "A",
+      "title": "Shortest Path Queries",
+      "url": "https://atcoder.jp/contests/ahc003/tasks/ahc003_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
