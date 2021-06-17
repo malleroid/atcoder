@@ -1,22 +1,33 @@
+import sys
+
+sys.setrecursionlimit(10 ** 6)
+
 N, M = map(int, input().split())
-AB = [list(map(int, input().split())) for _ in range(M)]
 
-p = [{i} for i in range(M)]
-
-for i in range(M):
-
-    p[AB[i][0]-1].add(AB[i][1])
-
-ans = 0 if M != 0 else N
+G = [[] for _ in range(N)]
 
 for i in range(M):
+    A, B = map(int, input().split())
+    G[A-1].append(B-1)
 
-    q = list(p[i])
-    q.sort()
-    for j in range(len(q)):
-        p[i] = p[i] | p[q[j]-1] | {i+1}
 
-    print(p[i])
-    ans += len(p[i])
+def dfs(v):
+    if seen[v]:
+        return
+
+    seen[v] = True
+    for vv in G[v]:
+        dfs(vv)
+
+
+ans = 0
+
+for i in range(N):
+
+    seen = [False]*N
+
+    dfs(i)
+
+    ans += sum(seen)
 
 print(ans)

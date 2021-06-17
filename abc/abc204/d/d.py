@@ -1,7 +1,7 @@
 N = int(input())
 T = list(map(int, input().split()))
 
-T.sort(reverse=True)
+s = sum(T)
 
 t1 = 0
 t2 = 0
