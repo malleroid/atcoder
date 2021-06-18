@@ -584,6 +584,136 @@
         "path": "058",
         "testdir": "tests"
       }
+    },
+    {
+      "id": "typical90_bg",
+      "label": "059",
+      "title": "Many Graph Queries（★7）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bg",
+      "directory": {
+        "path": "059",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "typical90_bh",
+      "label": "060",
+      "title": "Chimera（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bh",
+      "directory": {
+        "path": "060",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "typical90_bi",
+      "label": "061",
+      "title": "Deck（★2）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bi",
+      "directory": {
+        "path": "061",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "typical90_bj",
+      "label": "062",
+      "title": "Paint All（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bj",
+      "directory": {
+        "path": "062",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "typical90_bk",
+      "label": "063",
+      "title": "Monochromatic Subgrid（★4）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bk",
+      "directory": {
+        "path": "063",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "typical90_bl",
+      "label": "064",
+      "title": "Uplift（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bl",
+      "directory": {
+        "path": "064",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "typical90_bm",
+      "label": "065",
+      "title": "RGB Balls 2（★7）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bm",
+      "directory": {
+        "path": "065",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "typical90_bn",
+      "label": "066",
+      "title": "Various Arrays（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bn",
+      "directory": {
+        "path": "066",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "typical90_bo",
+      "label": "067",
+      "title": "Base 8 to 9（★2）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bo",
+      "directory": {
+        "path": "067",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "typical90_bp",
+      "label": "068",
+      "title": "Paired Information（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bp",
+      "directory": {
+        "path": "068",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "typical90_bq",
+      "label": "069",
+      "title": "Colorful Blocks 2（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bq",
+      "directory": {
+        "path": "069",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "typical90_br",
+      "label": "070",
+      "title": "Plant Planning（★4）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_br",
+      "directory": {
+        "path": "070",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "typical90_bs",
+      "label": "071",
+      "title": "Deck（★2）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bs",
+      "directory": {
+        "path": "071",
+        "testdir": "tests"
+      }
     }
   ]
 }
