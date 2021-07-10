@@ -7,4 +7,13 @@ for i in range(N):
 
 c = b.count(1)
 
-num = (N-c)*(c//2)
+p = 2**(c-1) if c-1 >= 1 else 0
+if P == 0:
+
+    ans = 2**N-(2**(N-c))*p
+    print(ans)
+
+else:
+
+    ans = (2**(N-c))*p
+    print(ans)
