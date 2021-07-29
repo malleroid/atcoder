@@ -824,6 +824,86 @@
         "path": "082",
         "testdir": "tests"
       }
+    },
+    {
+      "id": "typical90_ce",
+      "label": "083",
+      "title": "Colorful Graph（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ce",
+      "directory": {
+        "path": "083",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "typical90_cf",
+      "label": "084",
+      "title": "There are two types of characters（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_cf",
+      "directory": {
+        "path": "084",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "typical90_cg",
+      "label": "085",
+      "title": "Multiplication 085（★4）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_cg",
+      "directory": {
+        "path": "085",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "typical90_ch",
+      "label": "086",
+      "title": "Snuke's Favorite Arrays（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ch",
+      "directory": {
+        "path": "086",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "typical90_ci",
+      "label": "087",
+      "title": "Chokudai's Demand（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ci",
+      "directory": {
+        "path": "087",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "typical90_cj",
+      "label": "088",
+      "title": "Similar but Different Ways（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_cj",
+      "directory": {
+        "path": "088",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "typical90_ck",
+      "label": "089",
+      "title": "Partitions and Inversions（★7）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ck",
+      "directory": {
+        "path": "089",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "typical90_cl",
+      "label": "090",
+      "title": "Tenkei90's Last Problem（★7）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_cl",
+      "directory": {
+        "path": "090",
+        "testdir": "tests"
+      }
     }
   ]
 }
