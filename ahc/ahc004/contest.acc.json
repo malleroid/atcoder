@@ -1,0 +1,19 @@
+{
+  "contest": {
+    "id": "ahc004",
+    "title": "AtCoder Heuristic Contest 004",
+    "url": "https://atcoder.jp/contests/ahc004"
+  },
+  "tasks": [
+    {
+      "id": "ahc004_a",
+      "label": "A",
+      "title": "Alien's Genome Assembly",
+      "url": "https://atcoder.jp/contests/ahc004/tasks/ahc004_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
