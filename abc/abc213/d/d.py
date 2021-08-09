@@ -3,37 +3,32 @@ sys.setrecursionlimit(10**7)
 
 N = int(input())
 
-graph = [[-1]*N for _ in range(N)]
+graph = [[]*N for _ in range(N)]
 
 for i in range(N-1):
     A, B = map(int, input().split())
     A -= 1
     B -= 1
+    graph[A].append(B)
+    graph[B].append(A)
 
-    graph[A][B] = B
-    graph[B][A] = A
+for i in range(N):
+    graph[i].sort()
 
-print(graph)
-
-hist = ''
+hist = []
 visited = [False]*N
-now = 0
-root = 0
 
 
-def dfs(graph, node):
+def euler_tour(now, bef):
     global visited
     global hist
-    if visited[node] is False:
-        visited[node] = True
-        hist += str(node+1)
-        for n in graph[node]:
-            if n >= 0:
-                dfs(graph, n)
-
-                hist += str(n+1)+'p'
+    hist += [now+1]
+    for e in graph[now]:
+        if e != bef:
+            euler_tour(e, now)
+            hist += [now+1]
 
 
-dfs(graph, now)
+euler_tour(0, -1)
 
-print(hist)
+print(*hist)
