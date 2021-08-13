@@ -3,67 +3,33 @@
 # $1 contest_directory
 # $2 contest_name
 
+# list by alphabet
 cd ./$1
 
-if [ -d ./$2/a ]
-then
-    touch ./$2/a/a.py
-fi
-if [ -d ./$2/b ]
-then
-    touch ./$2/b/b.py
-fi
-if [ -d ./$2/c ]
-then
-    touch ./$2/c/c.py
-fi
-if [ -d ./$2/d ]
-then
-    touch ./$2/d/d.py
-fi
-if [ -d ./$2/e ]
-then
-    touch ./$2/e/e.py
-fi
-if [ -d ./$2/f ]
-then
-    touch ./$2/f/f.py
-fi
-if [ -d ./$2/g ]
-then
-    touch ./$2/g/g.py
-fi
-if [ -d ./$2/h ]
-then
-    touch ./$2/h/h.py
-fi
-if [ -d ./$2/i ]
-then
-    touch ./$2/i/i.py
-fi
-if [ -d ./$2/j ]
-then
-    touch ./$2/j/j.py
-fi
-if [ -d ./$2/k ]
-then
-    touch ./$2/k/k.py
-fi
-if [ -d ./$2/l ]
-then
-    touch ./$2/l/l.py
-fi
-if [ -d ./$2/m ]
-then
-    touch ./$2/m/m.py
-fi
-if [ -d ./$2/n ]
-then
-    touch ./$2/n/n.py
-fi
-if [ -d ./$2/o ]
-then
-    touch ./$2/o/o.py
-fi
+for i in a b c d e f g h i j k l m n o p q r s t u v w x y z
+do
+
+    if [ -d ./$2/"${i}" ]
+    then
+        touch ./$2/"${i}"/"${i}".py
+    fi
+
+done
 
 cd ../
+
+# list by number
+# cd ./$1
+
+# for i in 001 002 003 004 005 006 007 008 009 010 011 012 013 014 015 016 017 018 019 020 021 022 023 024 025 026 027 028 029 030 031 032 033 034 035 036 037 038 039 040 041 042 043 044 045 046 047 048 049 050 051 052 053 054 055 056 057 058 059 060 061 062 063 064 065 066 067 068 069 070 071 072 073 074 075 076 077 078 079 080 081 082 083 084 085 086 087 088 089 090
+# do
+
+#     if [ -d ./$2/"${i}" ]
+#     then
+#         touch ./$2/"${i}"/"${i}".py
+#     fi
+
+# done
+
+# cd ../
+
