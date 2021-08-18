@@ -1,8 +1,8 @@
-s=input()
+s = input()
 
-chk=s[:4]
+chk = s[:4]
 
-if chk=='YAKI':
+if chk == 'YAKI':
     print('Yes')
 
 else:
