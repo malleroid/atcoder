@@ -1,12 +1,16 @@
+import collections
+
 Q = int(input())
 
-m = []
+q = collections.deque()
 for i in range(Q):
     t, x = map(int, input().split())
 
     if t == 1:
-        m.insert(0, x)
+        q.appendleft(x)
+
     elif t == 2:
-        m.append(x)
+        q.append(x)
+
     else:
-        print(m[x-1])
+        print(q[x-1])

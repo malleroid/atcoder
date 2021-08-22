@@ -1,4 +1,3 @@
-# 進数変換
 import numpy as np
 
 N, K = map(int, input().split())

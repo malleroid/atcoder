@@ -1,4 +1,3 @@
-# コーナーケース
 H, W = map(int, input().split())
 
 ans = 0
