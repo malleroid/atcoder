@@ -1,4 +1,3 @@
-# 二分探索 最近傍
 import bisect
 
 N = int(input())
@@ -11,12 +10,12 @@ for i in range(Q):
     B = int(input())
 
     p = bisect.bisect_left(A, B)
+    num = pow(10, 10)
 
-    num = pow(10, 18)
-    if p > 0:
+    if p != 0:
         num = min(num, abs(A[p-1]-B))
 
-    if p < N:
+    if p != N:
         num = min(num, abs(A[p]-B))
 
     print(num)

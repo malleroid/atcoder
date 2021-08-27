@@ -1,4 +1,3 @@
-# bit全探索
 import itertools
 
 N = int(input())

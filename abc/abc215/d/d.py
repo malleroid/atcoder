@@ -27,5 +27,4 @@ for i in range(len(divisor)):
 
 ans = [i for i in p if i != 0]
 print(len(ans))
-for i in range(len(ans)):
-    print(ans[i])
+print(*ans, sep='\n')
