@@ -14,5 +14,4 @@ for i in range(p, p+N+1):
     if T[i % N] > T[(i-1) % N]+S[(i-1) % N]:
         T[i % N] = T[(i-1) % N]+S[(i-1) % N]
 
-for i in range(N):
-    print(T[i])
+print(*T, sep='\n')
