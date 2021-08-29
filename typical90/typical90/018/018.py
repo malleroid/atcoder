@@ -1,4 +1,3 @@
-# 3次元幾何学
 import math
 import numpy as np
 
