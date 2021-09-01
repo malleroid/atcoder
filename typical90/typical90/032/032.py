@@ -13,7 +13,6 @@ for v in XY:
     pair[v[0]-1][v[1]-1] = False
     pair[v[1]-1][v[0]-1] = False
 
-
 ans = pow(10, 5)
 for v in itertools.permutations(L):
 
@@ -30,6 +29,5 @@ for v in itertools.permutations(L):
 
     if flag is True:
         ans = min(ans, num)
-
 
 print(ans if ans != pow(10, 5) else '-1')
