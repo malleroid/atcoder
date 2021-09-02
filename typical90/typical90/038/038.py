@@ -1,4 +1,3 @@
-# 最大公約数, 最小公倍数
 import math
 
 A, B = map(int, input().split())
