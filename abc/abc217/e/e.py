@@ -2,25 +2,24 @@ import collections
 import heapq
 
 Q = int(input())
-v = collections.deque()
-flg = False
+q = collections.deque()
+hq = []
+heapq.heapify(hq)
+
 for i in range(Q):
-    q = input()
-    if q[0] == '1':
-        n, x = map(int, q.split())
-        if flg is False:
-            v.append(x)
-        else:
-            heapq.heappush(w, x)
+    query = input()
+    if query[0] == '1':
+        n, x = map(int, query.split())
+        q.append(x)
 
-    elif q[0] == '2':
-        if flg is False:
-            print(v.pop())
+    elif query[0] == '2':
+        if len(hq) == 0:
+            print(q.popleft())
         else:
-            print(heapq.heappop(w))
+            print(heapq.heappop(hq))
 
-    elif q[0] == '3':
-        if flg is False:
-            flg = True
-            w = list(v)
-            heapq.heapify(list(w))
+    elif query[0] == '3':
+        for v in q:
+            heapq.heappush(hq, v)
+
+        q.clear()

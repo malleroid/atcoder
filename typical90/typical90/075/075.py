@@ -1,29 +1,16 @@
-import copy
-
 N = int(input())
 
-A = [N]
-ans = 0
+primes = []
 
-while len(A) > 0:
+i = 2
+while i**2 <= N:
 
-    B = []
-    for v in A:
+    while N % i == 0:
+        primes.append(i)
+        N //= i
+    i += 1
 
-        i = 1
-        p = 1
-        while i*i <= v:
-            if v % i == 0:
-                p = i
+if N > 1:
+    primes.append(N)
 
-            i += 1
-
-        if p != 1:
-            B.append(p)
-            B.append(v//p)
-
-    A = copy.deepcopy(B)
-    if len(A) > 0:
-        ans += 1
-
-print(ans)
+print(0 if len(primes) == 1 else len(bin(len(primes)-1))-2)
