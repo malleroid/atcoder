@@ -1,4 +1,3 @@
-# 上界と下界を見積もる
 N, K = map(int, input().split())
 AB = [list(map(int, input().split())) for _ in range(N)]
 

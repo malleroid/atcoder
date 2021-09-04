@@ -1,4 +1,3 @@
-# 階差を使って計算量削減, 差を左から見るのと右から見るのの区別
 N, Q = map(int, input().split())
 A = list(map(int, input().split()))
 
@@ -11,15 +10,17 @@ for i in range(N-1):
 
 for i in range(Q):
     L, R, V = map(int, input().split())
+    L -= 1
+    R -= 1
 
-    if 2 <= L:
-        s -= abs(dif[L-2])
-        dif[L-2] += V
-        s += abs(dif[L-2])
+    if 1 <= L:
+        s -= abs(dif[L-1])
+        dif[L-1] += V
+        s += abs(dif[L-1])
 
-    if R <= N-1:
-        s -= abs(dif[R-1])
-        dif[R-1] -= V
-        s += abs(dif[R-1])
+    if R <= N-2:
+        s -= abs(dif[R])
+        dif[R] -= V
+        s += abs(dif[R])
 
     print(s)

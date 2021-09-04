@@ -3,17 +3,22 @@ A = list(map(int, input().split()))
 
 mod = 10**9+7
 
-last_flg = False
-num = 0
+a = [0]*N
+inversion = [0]*N
 
 for i in range(N):
 
-    if A[i] > A[(i+1) % N]:
-        num += 1
+    for j in range(N):
 
-        if i == N-1:
-            last_flg = True
+        if A[i] > A[j]:
+            a[i] += 1
 
-ans = num*K % mod if last_flg is False else (num*K-1) % mod
+            if i < j:
+                inversion[i] += 1
+
+ans = 0
+for i in range(N):
+    ans += a[i]*K*(K-1)//2+inversion[i]*K
+    ans %= mod
 
 print(ans)
