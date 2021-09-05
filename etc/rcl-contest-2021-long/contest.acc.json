@@ -1,0 +1,19 @@
+{
+  "contest": {
+    "id": "rcl-contest-2021-long",
+    "title": "RECRUIT Nihonbashi Half Marathon 2021 (long)",
+    "url": "https://atcoder.jp/contests/rcl-contest-2021-long"
+  },
+  "tasks": [
+    {
+      "id": "rcl_contest_2021_long_a",
+      "label": "A",
+      "title": "Farm King X",
+      "url": "https://atcoder.jp/contests/rcl-contest-2021-long/tasks/rcl_contest_2021_long_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
