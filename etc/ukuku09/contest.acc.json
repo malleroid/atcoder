@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": "ukuku09",
+    "title": "ウクーニャたんお誕生日コンテスト",
+    "url": "https://atcoder.jp/contests/ukuku09"
+  },
+  "tasks": [
+    {
+      "id": "ukuku09_a",
+      "label": "A",
+      "title": "UkuNumber",
+      "url": "https://atcoder.jp/contests/ukuku09/tasks/ukuku09_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "ukuku09_b",
+      "label": "B",
+      "title": "Sprinkler",
+      "url": "https://atcoder.jp/contests/ukuku09/tasks/ukuku09_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "ukuku09_c",
+      "label": "C",
+      "title": "Maze",
+      "url": "https://atcoder.jp/contests/ukuku09/tasks/ukuku09_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "ukuku09_d",
+      "label": "D",
+      "title": "ukuku",
+      "url": "https://atcoder.jp/contests/ukuku09/tasks/ukuku09_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "ukuku09_e",
+      "label": "E",
+      "title": "Couple",
+      "url": "https://atcoder.jp/contests/ukuku09/tasks/ukuku09_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
