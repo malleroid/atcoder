@@ -1,22 +1,37 @@
+import heapq
+
 N, M = map(int, input().split())
 
-lock = {i: [] for i in range(1, N+1)}
-n = {i: i for i in range(1, N+1)}
+indeg = [0]*(N+1)
+outdeg = {i: [] for i in range(1, N+1)}
 
-# print(lock)
-# exit()
 for i in range(M):
     A, B = map(int, input().split())
+    indeg[B] += 1
+    outdeg[A].append(B)
 
-    if B in lock[A]:
-        print(-1)
-        exit()
+hq = []
+heapq.heapify(hq)
 
-    else:
-        lock[A].append(B)
+num = 0
+for i in range(1, N+1):
+    if indeg[i] == 0:
+        heapq.heappush(hq, i)
+        num += 1
 
-        if A > B:
-            n[A], n[B] = n[B], n[A]
+S = []
+while hq:
+    p = heapq.heappop(hq)
+    S.append(p)
 
-n = list(n).sort(key=lambda x: x[1])
-print(n)
+    for e in outdeg[p]:
+        indeg[e] -= 1
+        if indeg[e] == 0:
+            heapq.heappush(hq, e)
+            num += 1
+
+if num != N:
+    print(-1)
+
+else:
+    print(*S, sep=' ')
