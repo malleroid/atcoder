@@ -1,14 +1,16 @@
-import numpy as np
+N = int(input())
+A = list(map(int, input().split()))
 
-n = int(input())
-
-a = list(map(int, input().split()))
-
-
-res = np.prod(a)
-print(type(res))
-if res > 10**18:
-    print(-1)
+if 0 in A:
+    print(0)
 
 else:
-    print(res)
+    ans = 1
+    for i in range(N):
+        ans *= A[i]
+
+        if ans > pow(10, 18):
+            print(-1)
+            exit()
+
+    print(ans)
