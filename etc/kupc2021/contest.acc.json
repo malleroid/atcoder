@@ -1,0 +1,139 @@
+{
+  "contest": {
+    "id": "kupc2021",
+    "title": "京都大学プログラミングコンテスト 2021",
+    "url": "https://atcoder.jp/contests/kupc2021"
+  },
+  "tasks": [
+    {
+      "id": "kupc2021_a",
+      "label": "A",
+      "title": "Standing Sign",
+      "url": "https://atcoder.jp/contests/kupc2021/tasks/kupc2021_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "kupc2021_b",
+      "label": "B",
+      "title": "Painting with Many Orders",
+      "url": "https://atcoder.jp/contests/kupc2021/tasks/kupc2021_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "kupc2021_c",
+      "label": "C",
+      "title": "Gacha",
+      "url": "https://atcoder.jp/contests/kupc2021/tasks/kupc2021_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "kupc2021_d",
+      "label": "D",
+      "title": "Stones",
+      "url": "https://atcoder.jp/contests/kupc2021/tasks/kupc2021_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "kupc2021_e",
+      "label": "E",
+      "title": "PERMST",
+      "url": "https://atcoder.jp/contests/kupc2021/tasks/kupc2021_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "kupc2021_f",
+      "label": "F",
+      "title": "One Yen Coin",
+      "url": "https://atcoder.jp/contests/kupc2021/tasks/kupc2021_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "kupc2021_g",
+      "label": "G",
+      "title": "Two Step Sort",
+      "url": "https://atcoder.jp/contests/kupc2021/tasks/kupc2021_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "kupc2021_h",
+      "label": "H",
+      "title": "Symmetric",
+      "url": "https://atcoder.jp/contests/kupc2021/tasks/kupc2021_h",
+      "directory": {
+        "path": "h",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "kupc2021_i",
+      "label": "I",
+      "title": "Good LACK",
+      "url": "https://atcoder.jp/contests/kupc2021/tasks/kupc2021_i",
+      "directory": {
+        "path": "i",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "kupc2021_j",
+      "label": "J",
+      "title": "Delete Balls",
+      "url": "https://atcoder.jp/contests/kupc2021/tasks/kupc2021_j",
+      "directory": {
+        "path": "j",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "kupc2021_k",
+      "label": "K",
+      "title": "Three Coloring",
+      "url": "https://atcoder.jp/contests/kupc2021/tasks/kupc2021_k",
+      "directory": {
+        "path": "k",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "kupc2021_l",
+      "label": "L",
+      "title": "Tag Game",
+      "url": "https://atcoder.jp/contests/kupc2021/tasks/kupc2021_l",
+      "directory": {
+        "path": "l",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "kupc2021_m",
+      "label": "M",
+      "title": "Formula",
+      "url": "https://atcoder.jp/contests/kupc2021/tasks/kupc2021_m",
+      "directory": {
+        "path": "m",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
