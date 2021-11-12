@@ -1,0 +1,29 @@
+{
+  "contest": {
+    "id": "hokudai-hitachi2021",
+    "title": "Hitachi Hokudai Lab. & Hokkaido University Contest 2021",
+    "url": "https://atcoder.jp/contests/hokudai-hitachi2021"
+  },
+  "tasks": [
+    {
+      "id": "hokudai_hitachi2021_a",
+      "label": "A",
+      "title": "Regional area design",
+      "url": "https://atcoder.jp/contests/hokudai-hitachi2021/tasks/hokudai_hitachi2021_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "hokudai_hitachi2021_b",
+      "label": "B",
+      "title": "Regional area design and daily operation",
+      "url": "https://atcoder.jp/contests/hokudai-hitachi2021/tasks/hokudai_hitachi2021_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
