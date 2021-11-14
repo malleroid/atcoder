@@ -1,0 +1,19 @@
+{
+  "contest": {
+    "id": "ahc006",
+    "title": "Kyocera Programming Contest（AtCoder Heuristic Contest 006）",
+    "url": "https://atcoder.jp/contests/ahc006"
+  },
+  "tasks": [
+    {
+      "id": "ahc006_a",
+      "label": "A",
+      "title": "Food Delivery",
+      "url": "https://atcoder.jp/contests/ahc006/tasks/ahc006_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
