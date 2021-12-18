@@ -1,0 +1,19 @@
+{
+  "contest": {
+    "id": "future-contest-2022-final-open",
+    "title": "HACK TO THE FUTURE 2022 Final (Open Contest)",
+    "url": "https://atcoder.jp/contests/future-contest-2022-final-open"
+  },
+  "tasks": [
+    {
+      "id": "future_contest_2022_final_a",
+      "label": "A",
+      "title": "Code Golf for Robot Vacuums",
+      "url": "https://atcoder.jp/contests/future-contest-2022-final-open/tasks/future_contest_2022_final_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
