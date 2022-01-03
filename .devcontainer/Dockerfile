@@ -14,7 +14,8 @@ RUN apt-add-repository ppa:fish-shell/release-3 \
     # && curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher \
     # && apt install fonts-powerline -y \
     # && fisher install oh-my-fish/theme-bobthefish \
-    # && fisher install jethrokuan/z
+    # && fisher install jethrokuan/z \
+    # && fisher install oh-my-fish/plugin-peco
 
     # host machine側から
     # d cp ~/.config/fish/config.fish {container_id}:/root/.config/fish/config.fish  
