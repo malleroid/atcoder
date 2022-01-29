@@ -1,0 +1,109 @@
+{
+  "contest": {
+    "id": "jag2014summer-day2",
+    "title": "Japan Alumni Group Summer Camp 2014 Day 2",
+    "url": "https://atcoder.jp/contests/jag2014summer-day2"
+  },
+  "tasks": [
+    {
+      "id": "icpc2014summer_day2_a",
+      "label": "A",
+      "title": "Manhattan",
+      "url": "https://atcoder.jp/contests/jag2014summer-day2/tasks/icpc2014summer_day2_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "icpc2014summer_day2_b",
+      "label": "B",
+      "title": "Dictionary",
+      "url": "https://atcoder.jp/contests/jag2014summer-day2/tasks/icpc2014summer_day2_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "icpc2014summer_day2_c",
+      "label": "C",
+      "title": "Clique Coloring",
+      "url": "https://atcoder.jp/contests/jag2014summer-day2/tasks/icpc2014summer_day2_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "icpc2014summer_day2_d",
+      "label": "D",
+      "title": "Dense Amidakuji",
+      "url": "https://atcoder.jp/contests/jag2014summer-day2/tasks/icpc2014summer_day2_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "icpc2014summer_day2_e",
+      "label": "E",
+      "title": "Cellular Automaton",
+      "url": "https://atcoder.jp/contests/jag2014summer-day2/tasks/icpc2014summer_day2_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "icpc2014summer_day2_f",
+      "label": "F",
+      "title": "Directions",
+      "url": "https://atcoder.jp/contests/jag2014summer-day2/tasks/icpc2014summer_day2_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "icpc2014summer_day2_g",
+      "label": "G",
+      "title": "Snake",
+      "url": "https://atcoder.jp/contests/jag2014summer-day2/tasks/icpc2014summer_day2_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "icpc2014summer_day2_h",
+      "label": "H",
+      "title": "Distance Sum",
+      "url": "https://atcoder.jp/contests/jag2014summer-day2/tasks/icpc2014summer_day2_h",
+      "directory": {
+        "path": "h",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "icpc2014summer_day2_i",
+      "label": "I",
+      "title": "Substring Pairs",
+      "url": "https://atcoder.jp/contests/jag2014summer-day2/tasks/icpc2014summer_day2_i",
+      "directory": {
+        "path": "i",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "icpc2014summer_day2_j",
+      "label": "J",
+      "title": "Hyperrectangle",
+      "url": "https://atcoder.jp/contests/jag2014summer-day2/tasks/icpc2014summer_day2_j",
+      "directory": {
+        "path": "j",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
