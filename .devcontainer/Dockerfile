@@ -2,7 +2,7 @@ FROM python:3.8
 
 RUN apt update \
     && apt upgrade -y \
-    && apt install -y npm nodejs lsb-release expect fish vim \
+    && apt install -y npm nodejs lsb-release expect fish vim peco \
     && pip3 install --upgrade pip \
     && pip3 install online-judge-tools\
     && npm install -g atcoder-cli \
