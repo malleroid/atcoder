@@ -18,6 +18,9 @@ RUN apt update \
     # && fisher install jethrokuan/z \
     # && fisher install oh-my-fish/plugin-peco
 
+    # ------- starship setup ------
+    # curl -sS https://starship.rs/install.sh | sh
+
     # && ./login.sh \
 
     # ------ host machine側から ------
