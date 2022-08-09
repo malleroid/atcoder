@@ -1,0 +1,29 @@
+{
+  "contest": {
+    "id": "ahc013",
+    "title": "RECRUIT Nihonbashi Half Marathon 2022 Summer（AHC013）",
+    "url": "https://atcoder.jp/contests/ahc013"
+  },
+  "tasks": [
+    {
+      "id": "ahc013_a",
+      "label": "A",
+      "title": "Server Room",
+      "url": "https://atcoder.jp/contests/ahc013/tasks/ahc013_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "ahc013_b",
+      "label": "A-Final",
+      "title": "Server Room (System Test)",
+      "url": "https://atcoder.jp/contests/ahc013/tasks/ahc013_b",
+      "directory": {
+        "path": "a-final",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
