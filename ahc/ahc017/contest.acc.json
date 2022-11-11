@@ -1,0 +1,29 @@
+{
+  "contest": {
+    "id": "ahc017",
+    "title": "THIRD PROGRAMMING CONTEST 2022（AtCoder Heuristic Contest 017）",
+    "url": "https://atcoder.jp/contests/ahc017"
+  },
+  "tasks": [
+    {
+      "id": "ahc017_a",
+      "label": "A",
+      "title": "Road Repair",
+      "url": "https://atcoder.jp/contests/ahc017/tasks/ahc017_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "ahc017_b",
+      "label": "A-Final",
+      "title": "Road Repair (System Test)",
+      "url": "https://atcoder.jp/contests/ahc017/tasks/ahc017_b",
+      "directory": {
+        "path": "a-final",
+        "testdir": "tests"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "contest": {
+    "id": "ahc016",
+    "title": "HACK TO THE FUTURE 2023 qual（AtCoder Heuristic Contest 016）",
+    "url": "https://atcoder.jp/contests/ahc016"
+  },
+  "tasks": [
+    {
+      "id": "ahc016_a",
+      "label": "A",
+      "title": "Graphorean",
+      "url": "https://atcoder.jp/contests/ahc016/tasks/ahc016_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "ahc016_b",
+      "label": "A-Final",
+      "title": "Graphorean (System Test)",
+      "url": "https://atcoder.jp/contests/ahc016/tasks/ahc016_b",
+      "directory": {
+        "path": "a-final",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
