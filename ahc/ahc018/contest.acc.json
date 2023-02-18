@@ -1,0 +1,29 @@
+{
+  "contest": {
+    "id": "ahc018",
+    "title": "RECRUIT Nihonbashi Half Marathon 2023 Winter（AtCoder Heuristic Contest 018）",
+    "url": "https://atcoder.jp/contests/ahc018"
+  },
+  "tasks": [
+    {
+      "id": "ahc018_a",
+      "label": "A",
+      "title": "Excavation",
+      "url": "https://atcoder.jp/contests/ahc018/tasks/ahc018_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "ahc018_b",
+      "label": "A-Final",
+      "title": "Excavation (System Test)",
+      "url": "https://atcoder.jp/contests/ahc018/tasks/ahc018_b",
+      "directory": {
+        "path": "a-final",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
