@@ -1,0 +1,29 @@
+{
+  "contest": {
+    "id": "ahc019",
+    "title": "MC Digital Programming Contest 2023（AtCoder Heuristic Contest 019）",
+    "url": "https://atcoder.jp/contests/ahc019"
+  },
+  "tasks": [
+    {
+      "id": "ahc019_a",
+      "label": "A",
+      "title": "Silhouette Block Puzzle Creation",
+      "url": "https://atcoder.jp/contests/ahc019/tasks/ahc019_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "ahc019_b",
+      "label": "A-Final",
+      "title": "Silhouette Block Puzzle Creation (System Test)",
+      "url": "https://atcoder.jp/contests/ahc019/tasks/ahc019_b",
+      "directory": {
+        "path": "a-final",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
