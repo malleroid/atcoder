@@ -1,0 +1,29 @@
+{
+  "contest": {
+    "id": "ahc022",
+    "title": "RECRUIT Nihonbashi Half Marathon 2023 Summer（AtCoder Heuristic Contest 022）",
+    "url": "https://atcoder.jp/contests/ahc022"
+  },
+  "tasks": [
+    {
+      "id": "ahc022_a",
+      "label": "A",
+      "title": "Exploring Another Space",
+      "url": "https://atcoder.jp/contests/ahc022/tasks/ahc022_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "ahc022_b",
+      "label": "A-Final",
+      "title": "Exploring Another Space (System Test)",
+      "url": "https://atcoder.jp/contests/ahc022/tasks/ahc022_b",
+      "directory": {
+        "path": "a-final",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
