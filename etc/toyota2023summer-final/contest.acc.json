@@ -1,0 +1,19 @@
+{
+  "contest": {
+    "id": "toyota2023summer-final",
+    "title": "TOYOTA Programming Contest 2023 Summer final",
+    "url": "https://atcoder.jp/contests/toyota2023summer-final"
+  },
+  "tasks": [
+    {
+      "id": "toyota2023summer_final_a",
+      "label": "A",
+      "title": "Transit Warehouse",
+      "url": "https://atcoder.jp/contests/toyota2023summer-final/tasks/toyota2023summer_final_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
