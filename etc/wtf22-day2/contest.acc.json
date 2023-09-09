@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": "wtf22-day2",
+    "title": "World Tour Finals 2022 Day2",
+    "url": "https://atcoder.jp/contests/wtf22-day2"
+  },
+  "tasks": [
+    {
+      "id": "wtf22_day2_a",
+      "label": "A",
+      "title": "Hat Puzzle",
+      "url": "https://atcoder.jp/contests/wtf22-day2/tasks/wtf22_day2_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "wtf22_day2_b",
+      "label": "B",
+      "title": "The Greatest Two",
+      "url": "https://atcoder.jp/contests/wtf22-day2/tasks/wtf22_day2_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "wtf22_day2_c",
+      "label": "C",
+      "title": "Jewel Pairs",
+      "url": "https://atcoder.jp/contests/wtf22-day2/tasks/wtf22_day2_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "wtf22_day2_d",
+      "label": "D",
+      "title": "Cat Jumps",
+      "url": "https://atcoder.jp/contests/wtf22-day2/tasks/wtf22_day2_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "wtf22_day2_e",
+      "label": "E",
+      "title": "Adjacent Xor Game",
+      "url": "https://atcoder.jp/contests/wtf22-day2/tasks/wtf22_day2_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
