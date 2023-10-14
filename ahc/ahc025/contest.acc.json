@@ -1,0 +1,29 @@
+{
+  "contest": {
+    "id": "ahc025",
+    "title": "AtCoder Heuristic Contest 025",
+    "url": "https://atcoder.jp/contests/ahc025"
+  },
+  "tasks": [
+    {
+      "id": "ahc025_a",
+      "label": "A",
+      "title": "Balancing by Balance",
+      "url": "https://atcoder.jp/contests/ahc025/tasks/ahc025_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "ahc025_b",
+      "label": "A-Final",
+      "title": "Balancing by Balance (System Test)",
+      "url": "https://atcoder.jp/contests/ahc025/tasks/ahc025_b",
+      "directory": {
+        "path": "a-final",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
