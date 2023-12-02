@@ -1,0 +1,119 @@
+{
+  "contest": {
+    "id": "DEGwer2023",
+    "title": "DEGwer's Doctoral Dissertation Cheering Contest",
+    "url": "https://atcoder.jp/contests/DEGwer2023"
+  },
+  "tasks": [
+    {
+      "id": "1202Contest_a",
+      "label": "A",
+      "title": "DEGwer's Doctoral Dissertation",
+      "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "1202Contest_b",
+      "label": "B",
+      "title": "vs. DEGwer",
+      "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "1202Contest_c",
+      "label": "C",
+      "title": "binarydigit",
+      "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "1202Contest_d",
+      "label": "D",
+      "title": "Coincidence",
+      "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "1202Contest_e",
+      "label": "E",
+      "title": "Half Palindromes",
+      "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "1202Contest_f",
+      "label": "F",
+      "title": "K-Medians Clustering",
+      "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "1202Contest_g",
+      "label": "G",
+      "title": "Net of Net",
+      "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "1202Contest_h",
+      "label": "H",
+      "title": "Incomplete Notes",
+      "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_h",
+      "directory": {
+        "path": "h",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "1202Contest_i",
+      "label": "I",
+      "title": "Convex Dombination",
+      "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_i",
+      "directory": {
+        "path": "i",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "1202Contest_j",
+      "label": "J",
+      "title": "Hated Number",
+      "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_j",
+      "directory": {
+        "path": "j",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "1202Contest_k",
+      "label": "K",
+      "title": "± Beam",
+      "url": "https://atcoder.jp/contests/DEGwer2023/tasks/1202Contest_k",
+      "directory": {
+        "path": "k",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
