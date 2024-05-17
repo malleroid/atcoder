@@ -1,0 +1,29 @@
+{
+  "contest": {
+    "id": "ahc033",
+    "title": "Toyota Programming Contest 2024#5（AtCoder Heuristic Contest 033）",
+    "url": "https://atcoder.jp/contests/ahc033"
+  },
+  "tasks": [
+    {
+      "id": "ahc033_a",
+      "label": "A",
+      "title": "Container Handling with Cranes",
+      "url": "https://atcoder.jp/contests/ahc033/tasks/ahc033_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "ahc033_b",
+      "label": "A-Final",
+      "title": "Container Handling with Cranes (System Test)",
+      "url": "https://atcoder.jp/contests/ahc033/tasks/ahc033_b",
+      "directory": {
+        "path": "a-final",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
