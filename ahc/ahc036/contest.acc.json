@@ -1,0 +1,29 @@
+{
+  "contest": {
+    "id": "ahc036",
+    "title": "RECRUIT Nihonbashi Half Marathon 2024 Summer（AtCoder Heuristic Contest 036）",
+    "url": "https://atcoder.jp/contests/ahc036"
+  },
+  "tasks": [
+    {
+      "id": "ahc036_a",
+      "label": "A",
+      "title": "Efficient Signal Control",
+      "url": "https://atcoder.jp/contests/ahc036/tasks/ahc036_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "ahc036_b",
+      "label": "A-Final",
+      "title": "Efficient Signal Control (System Test)",
+      "url": "https://atcoder.jp/contests/ahc036/tasks/ahc036_b",
+      "directory": {
+        "path": "a-final",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
