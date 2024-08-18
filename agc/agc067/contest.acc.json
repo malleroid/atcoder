@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": "agc067",
+    "title": "AtCoder Grand Contest 067",
+    "url": "https://atcoder.jp/contests/agc067"
+  },
+  "tasks": [
+    {
+      "id": "agc067_a",
+      "label": "A",
+      "title": "Big Clique Everywhere",
+      "url": "https://atcoder.jp/contests/agc067/tasks/agc067_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "agc067_b",
+      "label": "B",
+      "title": "Modifications",
+      "url": "https://atcoder.jp/contests/agc067/tasks/agc067_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "agc067_c",
+      "label": "C",
+      "title": "Divisibility Homomorphism",
+      "url": "https://atcoder.jp/contests/agc067/tasks/agc067_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "agc067_d",
+      "label": "D",
+      "title": "Unique Matching",
+      "url": "https://atcoder.jp/contests/agc067/tasks/agc067_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "agc067_e",
+      "label": "E",
+      "title": "Biconnected Graph",
+      "url": "https://atcoder.jp/contests/agc067/tasks/agc067_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
