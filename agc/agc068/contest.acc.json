@@ -1,0 +1,59 @@
+{
+  "contest": {
+    "id": "agc068",
+    "title": "AtCoder Grand Contest 068",
+    "url": "https://atcoder.jp/contests/agc068"
+  },
+  "tasks": [
+    {
+      "id": "agc068_a",
+      "label": "A",
+      "title": "Circular Distance",
+      "url": "https://atcoder.jp/contests/agc068/tasks/agc068_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "agc068_b",
+      "label": "B",
+      "title": "01 Graph Construction",
+      "url": "https://atcoder.jp/contests/agc068/tasks/agc068_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "agc068_c",
+      "label": "C",
+      "title": "Ball Redistribution",
+      "url": "https://atcoder.jp/contests/agc068/tasks/agc068_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "agc068_d",
+      "label": "D",
+      "title": "Sum of Hash of Lexmin",
+      "url": "https://atcoder.jp/contests/agc068/tasks/agc068_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "agc068_e",
+      "label": "E",
+      "title": "Sort and Match",
+      "url": "https://atcoder.jp/contests/agc068/tasks/agc068_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests"
+      }
+    }
+  ]
+}
